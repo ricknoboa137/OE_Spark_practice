@@ -2,12 +2,18 @@
 
 ## Install dependencies
 
-- __Open "anaconda promt"
+- __Open "anaconda promt"__
 
-Install "Findspark" 
+- Install "Findspark" 
 
 ``` shell
 conda install -c conda-forge findspark
 ```
 
 for more information ```url https://anaconda.org/conda-forge/findspark ```
+
+- Install "pyspark"
+
+```shell
+pip install pyspark
+```
